@@ -1,0 +1,32 @@
+ul {
+  color: red;
+  background-color: black;
+}
+
+a {
+  color:  red;
+  background-color: black;
+} 
+.emenim {
+  background-color: purple;
+}
+.a{
+  background-color: orange;
+}
+.emenim:hover{
+  background-color: white;
+  color: white;
+  rotate: 500deg;
+  transition:rotate 0.1s;
+}
+.p1 {
+  font-family: "Times New Roman", Times, serif;
+}
+
+.p2 {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.b {
+  font-family: "Lucida Console", "Courier New", monospace;
+}
